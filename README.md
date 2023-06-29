@@ -1,1 +1,2 @@
-# snake-game
+# Basic Snake HTML and JavaScript Game
+This is a simple implementation of the classic snake game using HTML, CSS and JavaScript. The game consists of a snake that moves around a grid and eats food to grow in size. The player can control the direction of the snake using the arrow keys. The game ends when the snake hits the wall or its own body. The goal is to achieve the highest score possible by eating as much food as possible without dying. The game features a responsive design that adapts to different screen sizes and devices. The game also uses local storage to save the best score of the player.
